@@ -9,7 +9,8 @@ The project is designed to practice UI design, CSS animations, and 3D transform 
 ---
 
 ## 🚀 Live Demo
-[View Movie Cards](https://milad-fp.github.io/movie-cards/)
+[View Movie Cards](https://milad-fp.github.io/movie-cards/src/)
+
 ---
 
 ### ✨ Features
