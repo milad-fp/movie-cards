@@ -13,7 +13,7 @@ The project is designed to practice UI design, CSS animations, and 3D transform 
 
 ---
 
-### ✨ Features
+### 🧪 Features
 - 🎥 3D Flip Animation — smooth 3D card rotation on hover
 - 🃏 Front & Back Layout — front shows poster, back shows details 
 - 🎨 Modern, clean UI
