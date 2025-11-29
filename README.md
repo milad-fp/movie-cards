@@ -43,7 +43,7 @@ This project helped me practice CSS transitions, perspective, 3D transforms, and
 ### 🖼️ Screenshots
 <p align="left">
   <img src="https://github.com/milad-fp/movie-cards/blob/main/src/screenshot2.jpg" width="48%" />
-  <img src="https://github.com/milad-fp/movie-cards/blob/main/src/screenshot1.png" width="48%" />
+  <img src="https://github.com/milad-fp/movie-cards/blob/main/src/screenshot1.jpg" width="48%" />
 </p>
 
 
