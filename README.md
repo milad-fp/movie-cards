@@ -41,7 +41,6 @@ This project helped me practice CSS transitions, perspective, 3D transforms, and
 ---
 
 ### 🖼️ Screenshots
-(Add screenshots here)
 
 
 
